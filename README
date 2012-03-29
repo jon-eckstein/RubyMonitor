@@ -1,0 +1,3 @@
+== Monitor
+
+Running a ruby file as a daemon to monitor who is logging off and on for a given computer.
